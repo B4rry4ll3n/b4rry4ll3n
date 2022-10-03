@@ -1,4 +1,10 @@
-## Oiii eu sou o Isaias Junior!
+ <h1>Hii,I'm Isaias Junior</h1>
+
+<p>
+ I'm 23 years old. I worked as an intern at a bank during high school helping with office tasks and  customer service. It was my first job. 
+ I'm currently studying computer science and I'm working hard to be a good programmer. 
+ Within the next 5 years, I’d like to reach the position of a Senior developer. During the time period, I would like to help the organizations improve their business, create a personal network of highly specialized professionals and learn as much as I can.
+ </p>
 <div align="center">
   <a href="https://github.com/B4rry4ll3n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4rry4ll3n&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
