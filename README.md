@@ -15,7 +15,8 @@
   
  
 <div align="center"> 
-<h5>Social media</h5>
+<h5>Social Medias:</h5>
+<h5>Redes Sociais:</h5>
 <a href="https://instagram.com/isaias_barry1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:isaiasbarry1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isaiasjunior99905" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
