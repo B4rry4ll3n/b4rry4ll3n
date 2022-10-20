@@ -1,6 +1,6 @@
- <h1>Hii,I'm Isaias Junior</h1>
+ <h1 align="center">Hii,I'm Isaias Junior</h1>
 
-<p>
+<p align="center">
  I'm 23 years old. I worked as an intern at a bank during high school helping with office tasks and  customer service. It was my first job. 
  I'm currently studying computer science and I'm working hard to be a good programmer. 
  Within the next 5 years, I’d like to reach the position of a Senior developer. During the time period, I would like to help the organizations improve their business, create a personal network of highly specialized professionals and learn as much as I can.
@@ -14,7 +14,8 @@
   
   
  
-<div> 
+<div align="center"> 
+<h5>Social media</h5>
 <a href="https://instagram.com/isaias_barry1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:isaiasbarry1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isaiasjunior99905" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
