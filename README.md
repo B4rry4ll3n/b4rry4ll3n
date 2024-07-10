@@ -1,9 +1,7 @@
- <h1 align="center">Hii,I'm Isaias Junior</h1>
+ <h1 align="center">Olá,eu sou Isaias Junior</h1>
 
 <p align="center">
- I'm 25 years old. I worked as an intern at a bank during high school helping with office tasks and  customer service. It was my first job. 
- I'm currently studying computer science and I'm working hard to be a good programmer. 
- Within the next 5 years, I’d like to reach the position of a Senior developer. During the time period, I would like to help the organizations improve their business, create a personal network of highly specialized professionals and learn as much as I can.
+Analista e Desenvolvedor Pleno.
  </p>
 <div align="center">
   <a href="https://github.com/B4rry4ll3n">
@@ -12,8 +10,29 @@
 </div>           
 </div>
   
-  
- 
+<h1>Sobre mim </h1>
+
+<p align="center">
+I'm currently working as Analyst and Developer and I spend my free time with God, with my family, watching series, playing videogame.
+Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo livre estudando novas tecnologias e me aprimorando nas que já tenho dominio, também gosto de passar esse tempo com a Familia, gosto também de praticar atividades fisicas!</p>
+ <ul dir="auto">
+<li><strong>Name</strong>: Isaias Junior</li>
+<li><strong>Age</strong>: 26</li>
+<li><strong>Living in</strong>: São Paulo, Brazil</li>
+<li><strong>Stack</strong>: Oracle, SQL Server, SSIS and learning Python</li>
+<li><strong>University</strong>: <a href = 'https://anchieta.br/'>Faculdade Anchieta</a> </li>
+<li><strong>Certifications</strong>: Oracle Cloud Infrastructure 2023 Certified Foundations Associate <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E46275469E2996869B09898227A0A1398A87849F5FB1EA98006DA9BFC49C59F7" rel="nofollow">(Check here)</a></li>
+</ul>
+
+
+<h1>My Career</h1>
+
+<p align="center">
+Hoje eu sou analista e desenvolvedor Pleno na empresa <a href = "https://www.tcs.com/">Tata Company Services</a>  , prestando serviços na <a href="https://www.metlife.com.br">Metlife</a>, comecei essa jornada há mais de 4 anos e fui contribuindo para melhorias e projetos internos, com foco na prevenção de dados, desenvolvimento PL/SQL, VIEWS, Functions, processos automatizados e mais! Também estou estudando Ciências da computação e tenho diversas certificações pela plataforma <a href = 'https://www.dio.me/'> Digital Innovation </a> e também pela <a href = 'https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.BR&campaigntype=Search&portfolio=BrandDirect&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&utm_content=deal4584&utm_term=_._ag_110522377100_._ad_654184884452_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1001743_._pd__._&matchtype=b&gad_source=1&gclid=EAIaIQobChMInaOA0ruchwMVmgKtBh3D8A_lEAAYASAAEgLGofD_BwE'> Udemy </a>.
+
+ Claro, também me empenho para me especializar na área de Dados, como eu atuo direto com Oracle, tirei a Certificação Associate <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E46275469E2996869B09898227A0A1398A87849F5FB1EA98006DA9BFC49C59F7" rel="nofollow">(Check here)</a>
+ </p>
+
 <div align="center"> 
 <h5>Social Medias:</h5>
 <h5>Redes Sociais:</h5>
