@@ -13,8 +13,7 @@ Analista e Desenvolvedor Pleno.
 <h1>Sobre mim </h1>
 
 <p align="center">
-I'm currently working as Analyst and Developer and I spend my free time with God, with my family, watching series, playing videogame.
-Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo livre estudando novas tecnologias e me aprimorando nas que já tenho dominio, também gosto de passar esse tempo com a Familia, gosto também de praticar atividades fisicas!</p>
+Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo livre estudando e me aprimorando nas que já tenho dominio, também gosto de passar meu tempo livre com a Familia, gosto também de praticar atividades fisicas!</p>
  <ul dir="auto">
 <li><strong>Name</strong>: Isaias Junior</li>
 <li><strong>Age</strong>: 26</li>
