@@ -18,7 +18,7 @@ Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo liv
 <li><strong>Name</strong>: Isaias Junior</li>
 <li><strong>Age</strong>: 26</li>
 <li><strong>Living in</strong>: São Paulo, Brazil</li>
-<li><strong>Stack</strong>: Oracle, SQL Server, SSIS and learning Python</li>
+<li><strong>Stack</strong>: Oracle, SQL Server, SSIS, English, Spanish and learning Python</li>
 <li><strong>University</strong>: <a href = 'https://anchieta.br/'>Faculdade Anchieta</a> </li>
 <li><strong>Certifications</strong>: Oracle Cloud Infrastructure 2023 Certified Foundations Associate <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E46275469E2996869B09898227A0A1398A87849F5FB1EA98006DA9BFC49C59F7" rel="nofollow">(Check here)</a></li>
 </ul>
@@ -27,7 +27,7 @@ Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo liv
 <h1>My Career</h1>
 
 <p align="center">
-Hoje eu sou analista e desenvolvedor Pleno na empresa <a href = "https://www.tcs.com/">Tata Company Services</a>  , prestando serviços na <a href="https://www.metlife.com.br">Metlife</a>, comecei essa jornada há mais de 4 anos e fui contribuindo para melhorias e projetos internos, com foco na prevenção de dados, desenvolvimento PL/SQL, VIEWS, Functions, processos automatizados e mais! Também estou estudando Ciências da computação e tenho diversas certificações pela plataforma <a href = 'https://www.dio.me/'> Digital Innovation </a> e também pela <a href = 'https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.BR&campaigntype=Search&portfolio=BrandDirect&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&utm_content=deal4584&utm_term=_._ag_110522377100_._ad_654184884452_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1001743_._pd__._&matchtype=b&gad_source=1&gclid=EAIaIQobChMInaOA0ruchwMVmgKtBh3D8A_lEAAYASAAEgLGofD_BwE'> Udemy </a>.
+Hoje eu sou analista e desenvolvedor Pleno na empresa <a href = "https://www.tcs.com/">Tata Company Services</a>  , prestando serviços na <a href="https://www.metlife.com.br">Metlife</a>, comecei essa experiência internacional há mais de 4 anos no ramo Banking, financial services and insurance (BFSI) e fui contribuindo para melhorias e projetos internos, com foco na prevenção de dados, desenvolvimento PL/SQL, VIEWS, Functions, processos automatizados e mais! Com times da Europa, Colombia e USA. Também estou cursando Ciências da computação na <a href = 'https://anchieta.br/'>Faculdade Anchieta</a> </li> e tenho diversas certificações pela plataforma <a href = 'https://www.dio.me/'> Digital Innovation </a> e <a href = 'https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.BR&campaigntype=Search&portfolio=BrandDirect&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&utm_content=deal4584&utm_term=_._ag_110522377100_._ad_654184884452_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1001743_._pd__._&matchtype=b&gad_source=1&gclid=EAIaIQobChMInaOA0ruchwMVmgKtBh3D8A_lEAAYASAAEgLGofD_BwE'> Udemy </a>.
 
  Claro, também me empenho para me especializar na área de Dados, como eu atuo direto com Oracle, tirei a Certificação Associate <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E46275469E2996869B09898227A0A1398A87849F5FB1EA98006DA9BFC49C59F7" rel="nofollow">(Check here)</a>
  </p>
@@ -45,7 +45,7 @@ Hoje eu sou analista e desenvolvedor Pleno na empresa <a href = "https://www.tcs
   <a href="https://api.whatsapp.com/send?phone=11933909623" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
  
- <h5>Outros conhecimentos de Isaias Júnior: </h5>
+ <h5>Outros contatos profissionais de Isaias Júnior (com o que já trabalhou): </h5>
  
  
  <h5>Knowledge of Isaiah Junior:</h5>
