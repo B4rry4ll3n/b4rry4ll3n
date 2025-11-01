@@ -1,7 +1,7 @@
  <h1 align="center">Olá,eu sou Isaias Junior</h1>
 
 <p align="center">
-Analista e Desenvolvedor Pleno.
+Senior Analyst and Developer.
  </p>
 <div align="center">
   <a href="https://github.com/B4rry4ll3n">
@@ -10,10 +10,10 @@ Analista e Desenvolvedor Pleno.
 </div>           
 </div>
   
-<h1>Sobre mim </h1>
+<h1>About me</h1>
 
 <p align="center">
-Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo livre estudando e me aprimorando nas que já tenho dominio, também gosto de passar meu tempo livre com a Familia, gosto também de praticar atividades fisicas!</p>
+Currently I work as a Senior Analyst and Developer and I spend my free time studying and improving the skills I already have. I also enjoy spending my free time with my family and I like to practice physical activities!</p>
  <ul dir="auto">
 <li><strong>Name</strong>: Isaias Junior</li>
 <li><strong>Age</strong>: 26</li>
@@ -24,28 +24,14 @@ Atualmente eu trabalho como Analista e Desenvolvedor Pleno e passo meu tempo liv
 </ul>
 
 
-<h1>Minha carreira</h1>
+<h1>My career</h1>
 
-<p align="center">
-Hoje eu sou analista e desenvolvedor Pleno na empresa <a href = "https://www.tcs.com/">Tata Company Services</a>  , prestando serviços na <a href="https://www.metlife.com.br">Metlife</a>, comecei essa experiência internacional há mais de 4 anos no ramo Banking financial services and insurance (BFSI) e fui contribuindo para melhorias e projetos internos, com foco na prevenção de dados, desenvolvimento PL/SQL, VIEWS, Functions, processos automatizados e mais! Com times da Europa, Colombia e USA. Também estou cursando Ciências da computação na <a href = 'https://anchieta.br/'>Faculdade Anchieta</a> </li> e tenho diversas certificações pela plataforma <a href = 'https://www.dio.me/'> Digital Innovation </a> e <a href = 'https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=Brand-Udemy_la.EN_cc.BR&campaigntype=Search&portfolio=BrandDirect&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&utm_content=deal4584&utm_term=_._ag_110522377100_._ad_654184884452_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_1001743_._pd__._&matchtype=b&gad_source=1&gclid=EAIaIQobChMInaOA0ruchwMVmgKtBh3D8A_lEAAYASAAEgLGofD_BwE'> Udemy </a>.
-
- Claro, também me empenho para me especializar na área de Dados, como eu atuo direto com Oracle, tirei a Certificação Associate <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E46275469E2996869B09898227A0A1398A87849F5FB1EA98006DA9BFC49C59F7" rel="nofollow">(Check here)</a>
- </p> assim como parte do processo, decidi me aprofundar no GitHub e tirei a certificação <a href="https://www.credly.com/badges/ac09b8cc-50a8-4b39-8eb7-5ef8abf120c6"> GitHub Associate. </a>
-
-<div align="center"> 
-<h5>Social Medias:</h5>
-<h5>Redes Sociais:</h5>
-<a href="https://instagram.com/isaias_barry1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:isaiasbarry1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isaiasjunior99905" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/MwdGDxvg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+Mid-Level Analyst and Developer at Tata Consultancy Services (TCS), serving Metlife within the Banking, Financial Services, and Insurance (BFSI) sector for over 4 years.I specialize in data security and back-end development, with a strong focus on Oracle $\text{PL/SQL}$ development, including the creation of VIEWS, Functions, and automated processes. I have a proven track record of contributing to significant internal improvements and projects while collaborating effectively with international teams across Europe, Colombia, and the USA.I am actively specializing in the Data field, evidenced by my recent certifications:Oracle Associate Certification (Check here)GitHub Associate Certification (Check here)I am currently pursuing a degree in Computer Science at Faculdade Anchieta and hold multiple certifications from the Digital Innovation (DIO) and Udemy platforms.
 
  <h5> If need to contact in Whatsapp: </h5>
  <h5>Se precisar de contato no Whatsapp: </h5>
   <a href="https://api.whatsapp.com/send?phone=11933909623" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
- 
- <h5>Outros contatos profissionais de Isaias Júnior (com o que já trabalhou): </h5>
  
  
  <h5>Knowledge of Isaiah Junior:</h5>
